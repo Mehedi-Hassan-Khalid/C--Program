@@ -1,0 +1,2 @@
+# C---Program
+ The project will be our attempt at recreating a real-life scenery of a lighthouse overlooking the ocean using openGL/GLUT. Some of the tentative objectives will be: to create the lighthouse on top of a cliff, create a light beacon for the lighthouse, attempt to show waves in the ocean, attempt to implement a day night cycle, create moving cloud/ dynamic weather, attempt to add ships to the background etc
